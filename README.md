@@ -1,5 +1,7 @@
 # Minishell
 
+![Screenshot](https://user-images.githubusercontent.com/77735052/144885310-c6c456ce-f117-4339-ac98-6e9ec75968c0.png)
+
 A lightweight shell implementation written in **C** as part of the **42 Network curriculum**.  
 The goal is to rebuild a simplified version of **bash** to learn parsing, processes, file descriptors, and env management.
 
